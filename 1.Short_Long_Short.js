@@ -1,4 +1,5 @@
 // Short Long Short
+// Level : 8 kyu
 // link : https://www.codewars.com/kata/50654ddff44f800200000007
 
 /* SOAL
@@ -15,7 +16,6 @@ For example: (Input1, Input2) --> output
 ShortLongShort.solution("1", "22"); // returns "1221"
 ShortLongShort.solution("22", "1"); // returns "1221"
 */
-
 
 function solution(a, b) {
   // ++ Awal ketemu ++
