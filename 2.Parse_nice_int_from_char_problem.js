@@ -13,7 +13,6 @@ Assume the test input string is always a valid string. For example, the test inp
 */
 
 function getAge(inputString) {
-  // return the girl's correct age as an integer. Happy coding :)
   // ++ Awal ketemu ++
   // let hasil = parseInt(inputString.split("")[0]);
   // console.log(hasil);
@@ -23,7 +22,7 @@ function getAge(inputString) {
   // return parseInt(inputString.split("")[0]);
 
   // ++Jawaban orang lain++
-  return parseInt(inputString)
+  return parseInt(inputString);
 }
 
 console.log(getAge("4 years old"));
