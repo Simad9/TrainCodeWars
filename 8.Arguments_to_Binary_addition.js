@@ -29,7 +29,7 @@ function arr2bin(arr) {
 
   // ++Jawaban orang lain++
   return arr
-    .reduce((x, y) => x + (typeof y == "number" ? y : 0), 0)
+    .reduce((sum, cur) => (typeof cur === "number" ? sum + cur : sum), 0)
     .toString(2);
 }
 
