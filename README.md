@@ -7,7 +7,7 @@ Peraturan :
   
 
 ### Level - 28/07/2024
-- 8 kyu = 12 soal 
+- 8 kyu = 13 soal 
 - 7 kyu = 11 soal
 - 6 kyu = 3 soal
 - 5 kyu = 0
