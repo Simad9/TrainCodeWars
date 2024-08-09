@@ -5,9 +5,8 @@ Peraturan :
 1. Boleh buka dokumentasi di google
 2. Kalo ngerjain diatas 30mnt atau 1jam, boleh tanya ke ChatGPT
   
-
-### Level - 28/07/2024
-- 8 kyu = 16 soal 
+### JavaScript
+- 8 kyu = 17 soal 
 - 7 kyu = 11 soal
 - 6 kyu = 3 soal
 - 5 kyu = 0
@@ -15,3 +14,4 @@ Peraturan :
 - 3 kyu = 0
 - 2 kyu = 0
 - 1 kyu = 0
+
