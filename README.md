@@ -6,7 +6,7 @@ Peraturan :
 2. Kalo ngerjain diatas 30mnt atau 1jam, boleh tanya ke ChatGPT
   
 ### JavaScript
-- 8 kyu = 18 soal 
+- 8 kyu = 19 soal 
 - 7 kyu = 13 soal
 - 6 kyu = 3 soal
 - 5 kyu = 0
