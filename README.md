@@ -7,7 +7,7 @@ Peraturan :
   
 ### JavaScript
 - 8 kyu = 25 soal 
-- 7 kyu = 13 so
+- 7 kyu = 14 so
 - 6 kyu = 3 soal
 - 5 kyu = 0
 - 4 kyu = 0
